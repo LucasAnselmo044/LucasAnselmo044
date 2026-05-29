@@ -135,18 +135,25 @@ A Python tool created to quickly switch Windows power profiles.
 
 ## 📫 Contact me
 
-## 📫 Contact me
-
 <p>
   <a href="https://lucasanselmo044.vercel.app/">
     <img src="https://img.shields.io/badge/Design%20Portfolio-Visual%20Design%20%26%20UI-purple?style=for-the-badge" alt="Design Portfolio" />
   </a>
+</p>
+
+<p>
   <a href="https://lucasanselmo.vercel.app/">
     <img src="https://img.shields.io/badge/Web%20Development%20Portfolio-Projects%20%26%20Code-000?style=for-the-badge" alt="Web Development Portfolio" />
   </a>
+</p>
+
+<p>
   <a href="https://www.linkedin.com/in/lucas-anselmo-3568752a2/">
     <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Anselmo-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
+</p>
+
+<p>
   <a href="mailto:lucasanselmodev@gmail.com">
     <img src="https://img.shields.io/badge/Email-lucasanselmodev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
