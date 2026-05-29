@@ -73,7 +73,6 @@ I believe that a good QA professional needs technical knowledge, attention to de
   <img src="https://img.shields.io/badge/UI%20Design-Interface%20Design-purple?style=for-the-badge" alt="UI Design" />
   <img src="https://img.shields.io/badge/Usability-User%20Experience-ff69b4?style=for-the-badge" alt="Usability" />
 </p>
----
 
 ## 🎨 My differential
 
